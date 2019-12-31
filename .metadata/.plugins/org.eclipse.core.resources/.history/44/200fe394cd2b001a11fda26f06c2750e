@@ -1,0 +1,10 @@
+package com.bridgelabz.springannotations;
+import org.springframework.stereotype.Component;
+
+@Component
+public class NewsChannels implements Government {
+
+	public void process() {
+		System.out.println("NEWS18,AAJ-TAK");
+	}
+}

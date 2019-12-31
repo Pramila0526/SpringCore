@@ -1,0 +1,8 @@
+package com.bridgelabz.spring.SpringCorePrograms;
+
+public class Bike {
+	public void drive()
+	{
+		System.out.println("Riding...");
+	}
+}

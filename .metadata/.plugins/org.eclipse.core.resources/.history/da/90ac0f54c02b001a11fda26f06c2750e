@@ -1,0 +1,10 @@
+package com.bridgelabz.springannotations;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class ConfigurationEx {
+	public Mumbai getCity()
+	{
+		return new Mumbai();
+	}
+}

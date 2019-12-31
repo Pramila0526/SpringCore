@@ -1,0 +1,5 @@
+package com.bridgelabz.SpringXML;
+
+public interface Device {
+	public void config();
+}

@@ -1,0 +1,25 @@
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.brideglabz.controller.CPU;
+
+/**
+ * Hello world!
+ *
+ */
+public class App {
+	@SuppressWarnings("resource")
+	public static void main(String[] args) {
+		
+		// Mumbai mumbai = new Mumbai();
+		// mumbai.config(); But this is not Dependency Injection
+		// We Should Able to inject this object so we can ask our factory as below
+		
+		ApplicationContext factory = new AnnotationConfigApplicationContext(ConfigurationEx.class);
+		
+		// Here we are asking factory to give you the object
+		CPU cpu = (CPU) factory.getBean("cpu");
+		cpu.config();
+	}
+}

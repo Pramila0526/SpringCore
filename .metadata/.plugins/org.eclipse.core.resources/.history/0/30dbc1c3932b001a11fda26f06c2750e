@@ -1,0 +1,21 @@
+package com.bridgelabz.spring.SpringCorePrograms;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    
+    public static void main( String[] args )
+    {
+    	// Instance of Car-- Car car=new Car(); car.drive();
+    	// Instance of Bike-- Bike bike=new Bike(); bike.drive();
+    	
+    	// If you update your classes you nedd to change the source code
+    	// So it is depend upon the classes car and bike
+    	// we need to make it in a way that it will not depend on the class car and bike
+    	// So the Object should be Independent
+    }
+       
+}

@@ -1,0 +1,11 @@
+package com.bridgelabz.springannotations;
+import org.springframework.stereotype.Component;
+
+@Component
+public class MaharshtraGov implements Government
+{
+	public void process() {
+		System.out.println("Maharshtra Government");
+		
+	}
+}

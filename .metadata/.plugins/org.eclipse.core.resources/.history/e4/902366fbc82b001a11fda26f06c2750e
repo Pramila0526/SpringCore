@@ -1,0 +1,20 @@
+package com.bridgelabz.springannotations;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class Mumbai {
+	@Autowired  //Inorder to connect all the objects it is by default byType it checks the type
+	Government government;
+	
+	public Government getGovernment() {
+		return government;
+	}
+	public void setGovernment(Government government) {
+		this.government = government;
+	}
+	public void config()
+	{
+		System.out.println("1000km Area,415413 Population,3526 IT Companies");
+		government.process();
+	}
+}

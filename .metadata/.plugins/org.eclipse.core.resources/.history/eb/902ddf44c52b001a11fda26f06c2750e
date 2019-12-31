@@ -1,0 +1,10 @@
+package com.bridgelabz.SpringXML;
+import org.springframework.stereotype.Component;
+
+@Component
+public class CPU implements Device{
+	public void config()
+	{
+		System.out.println("M-TECHNO CPU Core i5 650 Processor, 8GB RAM & 1TB HDD with WiFi");
+	}
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Root tag Of the XML -->
+<beans>
+<bean id="vehicle" class="com.bridgelabz.spring.SpringCorePrograms"
+</beans>

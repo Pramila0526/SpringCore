@@ -1,0 +1,17 @@
+package com.bridgelabz.spring.SpringCorePrograms;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    
+    public static void main( String[] args )
+    {
+      // Instance of Car-- Car car=new Car(); car.drive();
+      // Instance of Bike-- Bike bike=new Bike(); bike.drive();
+    	
+    }
+       
+}

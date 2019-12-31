@@ -1,0 +1,16 @@
+package com.bridgelabz.springannotations;
+
+public class Mumbai {
+	Government government;
+	
+	public Government getGovernment() {
+		return government;
+	}
+	public void setGovernment(Government government) {
+		this.government = government;
+	}
+	public void config()
+	{
+		System.out.println("1000km Area,415413 Population,3526 IT Companies");
+	}
+}

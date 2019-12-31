@@ -1,0 +1,6 @@
+package com.bridgelabz.spring;
+
+public interface Vehicle {
+	public void drive();
+
+}

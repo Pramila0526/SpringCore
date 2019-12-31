@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.bridgelabz.spring.SpringCorePrograms.Car"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.spring.SpringCorePrograms.Bike"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.spring.Vehicle"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.spring.Engine"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.spring.Tyre"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.spring.Car"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.springannotations.Mumbai"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.springannotations.ConfigurationEx"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.brideglabz.controller.CPU"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.SpringXML.CPU"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.SpringXML.Device"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.springannotations.Government"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.springannotations.MaharshtraGov"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+</qualifiedTypeNameHistroy>
